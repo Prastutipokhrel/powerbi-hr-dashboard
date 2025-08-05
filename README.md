@@ -3,9 +3,11 @@
  A Power BI dashboard built using the IBM HR Analytics dataset to explore employee attrition across departments, job roles, and demographics.
 
 ## Features
-- Attrition rates by department
-- Income, age, and distance comparisons
-- Filters for gender, education, and job role
+- KPI Cards (Attrition %, Avg Monthly Income, Total Employees)
+- Attrition by Department (Bar chart)
+- Income vs Age with Attrition Overlay (Line chart)
+- Gender Distribution (Pie chart)
+- Interactive Filters (Slicers for Gender, Department, Job Role)
 
 ## Files
 - HR_Attrition_Dashboard.pbix – Power BI dashboard file
