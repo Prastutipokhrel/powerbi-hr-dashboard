@@ -14,6 +14,12 @@
 - HR-Employee-Attrition.csv – Original dataset
 - /screenshots – Visual examples
 
+
+
 ## Tools Used
 - Power BI
 - CSV data processing
+
+## 📸 Screenshots
+
+![Attrition Dashboard](ss.png)
