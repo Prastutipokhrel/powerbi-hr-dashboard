@@ -22,4 +22,4 @@
 
 ## 📸 Screenshots
 
-![Attrition Dashboard](ss.png)
+![Attrition Dashboard](screenshots/ss.png)
