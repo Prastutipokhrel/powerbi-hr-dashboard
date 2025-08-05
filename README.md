@@ -19,6 +19,7 @@
 ## Tools Used
 - Power BI
 - CSV data processing
+- [IBM HR Analytics Dataset (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## 📸 Screenshots
 
